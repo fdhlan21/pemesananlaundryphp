@@ -1,0 +1,11 @@
+{
+    "name": "webadmin/flyincloud-composer",
+    "description": "bismmillah",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "tecnickcom/tcpdf": "^6.6",
+        "setasign/fpdf": "^1.8"
+    }
+}
